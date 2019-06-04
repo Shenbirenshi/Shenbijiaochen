@@ -2,9 +2,13 @@
 
 ##  V2RAY使用方法
 ###  新版UI下载客户端和查看订阅链接方法
+
+
 点击用户中心
 ![](https://image.nuccombat.cn/images/2019/06/04/UI.jpg)
+
 左下角即可看到订阅链接和软件下载
+
 ![](https://image.nuccombat.cn/images/2019/06/04/UI2.jpg)
 
 ###  Windows端
@@ -70,17 +74,29 @@ Android端V2RAY基本同Shadowsocks
 Android下面V2ray设置中可以设置分应用代理，非常方便
 
 ####  Android端应用分流方法
+
 应用左上角打开菜单界面 进入Setting（设置）
+
 ![](https://image.nuccombat.cn/images/2019/06/04/2f4f17f341689fac30151ec32a841681.jpg)
+
 设置选择第一个Per-app proxy
+
 ![](https://image.nuccombat.cn/images/2019/06/04/2.jpg)
+
 进入后可以选择模式（第一个是选中的应用流量走V2，第二个是选中的流量不走V2） 我们以Youtube设置流量走V2为例，在搜索框中搜索Youtube 勾选即可，这个功能用处是在于可以让客户端通过应用方式来决定是否将流量转发到V2
+
 ![](https://image.nuccombat.cn/images/2019/06/04/3.jpg)
 
 ###  IOS端
+
 以Kitsunebi为例，IOS端也可用使用QUANT
+
 ~~感谢不具名大佬的协助~~
+
 进入应用后，点击右上角加号，将会弹出弹窗，选择订阅
+
 ![](https://image.nuccombat.cn/images/2019/06/04/IOS1.jpg)
+
 进入订阅，URL填写站点获取的订阅地址，备注任意填写即可，填写完成后点击存储，存储后点击从URL获取更新即可更新到最新服务器信息
+
 ![](https://image.nuccombat.cn/images/2019/06/04/IOS2.jpg)
