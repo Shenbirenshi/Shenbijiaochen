@@ -48,7 +48,7 @@ V2RAY的客户端使用需要配合浏览器的代理设置（Chrome下的Switch
 
 **不使用SwitchOmega的同学请参考这篇教程设置Windows**
 
-**(https://233v2.com/post/8/ "Windows下V2RayNG设置方法")**
+**[Windows下V2RayNG设置方法](https://233v2.com/post/8/ "Windows下V2RayNG设置方法")**
 
 **不建议使用SSTAP做全局转发，这样做可能会影响您的体验，建议使用浏览器代理设置**
 
