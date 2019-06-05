@@ -72,9 +72,7 @@ Android端V2RAY基本同Shadowsocks
 
 安装完成后启动，先在站点复制订阅链接，然后回到V2Ray左上角打开配置菜单
 
-![](https://image.nuccombat.cn/images/2019/06/05/Android1.jpg
-https://image.nuccombat.cn/images/2019/06/05/VMESS1.jpg
-https://image.nuccombat.cn/images/2019/06/05/VMESS2.jpg)
+![](https://image.nuccombat.cn/images/2019/06/05/Android1.jpg)
 
 菜单中选择订阅设置
 
