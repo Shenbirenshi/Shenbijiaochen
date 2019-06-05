@@ -46,6 +46,10 @@ Http代理模式一般只使用前两种，服务器用于切换节点服务器
 
 V2RAY的客户端使用需要配合浏览器的代理设置（Chrome下的SwitchOmega插件等），这里我推荐另一种比较方便的方法：配合SSTAP使用。由于V2Ray会提供一个默认端口为10808的本地Socks5代理（端口设置如下图所示，一般不用修改  参数设置-基本设置），我们可以利用这个把V2Ray转换成全局代理（SSTAP在站点-SSR-游戏端-下载客户端处下载）
 
+**不使用SwitchOmega的同学请参考这篇教程设置Windows**
+
+**(https://233v2.com/post/8/ "Windows下V2RayNG设置方法")**
+
 **不建议使用SSTAP做全局转发，这样做可能会影响您的体验，建议使用浏览器代理设置**
 
 ![](https://image.nuccombat.cn/images/2019/06/02/socks5.jpg)
