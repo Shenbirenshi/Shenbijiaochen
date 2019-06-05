@@ -62,19 +62,45 @@ SSTAP中我们添加一个Socks5代理
 
 ####  Android端设置方法
 
+#####  Android端下订阅方法
+
 Android端V2RAY基本同Shadowsocks
 
 在站点下载apk
 
 ![](https://image.nuccombat.cn/images/2019/06/02/Android.jpg)
 
-安装完成后启动，先在站点复制订阅链接，然后回到V2Ray右上角+号，进入自定义配置
+安装完成后启动，先在站点复制订阅链接，然后回到V2Ray左上角打开配置菜单
 
-![](https://image.nuccombat.cn/images/2019/06/02/100df00c0f629ac1cfc4efb98bd8b5c3.jpg)
+![](https://image.nuccombat.cn/images/2019/06/05/Android1.jpg
+https://image.nuccombat.cn/images/2019/06/05/VMESS1.jpg
+https://image.nuccombat.cn/images/2019/06/05/VMESS2.jpg)
+
+菜单中选择订阅设置
+
+![](https://image.nuccombat.cn/images/2019/06/05/Android2.jpg)
+
+进入后选择右上角+号
+
+![](https://image.nuccombat.cn/images/2019/06/05/Android3.jpg)
+
+填写相关信息
+
+![](https://image.nuccombat.cn/images/2019/06/05/Android4.jpg)
 
 之后选择剪贴板URL导入自定义配置即可。
 
 Android下面V2ray设置中可以设置分应用代理，非常方便
+
+#####  Android端下VMESS添加方法
+
+站点点击服务器复制Vmess链接
+
+![](https://image.nuccombat.cn/images/2019/06/05/VMESS1.jpg)
+
+回到应用，点击右上角加号，选择从粘贴板导入
+
+![](https://image.nuccombat.cn/images/2019/06/05/VMESS2.jpg)
 
 ####  Android端应用分流方法
 
